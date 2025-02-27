@@ -38,5 +38,5 @@ Este repositório contém um projeto prático de comunicação serial utilizando
 https://wokwi.com/projects/424003535040339969
 
 ## 📩 Vídeo no Youtube:
-
+https://youtu.be/BT4KQGSQYvA
 
